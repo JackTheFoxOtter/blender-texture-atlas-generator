@@ -7,7 +7,7 @@ Choose a folder to automatically scan for image sequences, then choose an image 
 Configure tiling and vertical order, specify output name and generate a new texture atlas from the image sequence based on the configured options.
 The texture atlas will be stored as a new image data block.
 
-![Preview of the Create Walls operator](texture_atlas_generator_preview.gif)
+![Preview of the Texture Atlas Generator](texture_atlas_generator_preview.gif)
 
 ## Changelog:
 ### v1.0 (03.09.2022)
